@@ -6,3 +6,8 @@ def how_many_times():
     cheer()
 
 how_many_times()
+
+def doing_good():
+    print('Keep up the good work!')
+
+doing_good()
