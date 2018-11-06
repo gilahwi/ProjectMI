@@ -1,2 +1,2 @@
 def cheer():
-    print('Everything is fine')
+    print('Everything is fine!')

@@ -1,4 +1,5 @@
 from mynltk.newstuff import cheer
+from mynltk.newstuff2 import cheer2
 
 
 class Cheers:
@@ -7,6 +8,7 @@ class Cheers:
         cheer()
         cheer()
         cheer()
+        cheer2()
 
     def doing_good(self):
         print('Keep up the good work!')
