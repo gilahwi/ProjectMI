@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da2a3100-ad78-4725-a974-5292f2629eb4" name="Default Changelist" comment="#1 created files for issues">
-      <change afterPath="$PROJECT_DIR$/cheers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectMI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectMI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheermeup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheers.py" beforeDir="false" afterPath="$PROJECT_DIR$/cheers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mynltk/newstuff.py" beforeDir="false" afterPath="$PROJECT_DIR$/mynltk/newstuff.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,31 +51,79 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1211549398">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="newstuff-2" value="1" />
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="newstuff-2" value="32" />
+          <entry key="py" value="117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="149" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cheers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cheers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <marker date="1541492338490" expanded="true" signature="49:51" ph="..." />
-                <marker date="1541492338490" expanded="true" signature="77:86" ph="..." />
+                <element signature="e#0#33#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_cheers.py">
+        <entry file="file://$PROJECT_DIR$/mynltk/newstuff2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1541492313333" expanded="true" signature="112:117" ph="..." />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mynltk/newstuff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="9" lean-forward="true" selection-end-line="1" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -94,20 +144,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/mynltk/newstuff.py" />
         <option value="$PROJECT_DIR$/Solver.py" />
         <option value="$PROJECT_DIR$/test_solver.py" />
         <option value="$PROJECT_DIR$/cheermeup.py" />
         <option value="$PROJECT_DIR$/test_cheers.py" />
+        <option value="$PROJECT_DIR$/mynltk/newstuff.py" />
+        <option value="$PROJECT_DIR$/mynltk/newstuff-2" />
         <option value="$PROJECT_DIR$/cheers.py" />
+        <option value="$PROJECT_DIR$/newstuff2.py" />
+        <option value="$PROJECT_DIR$/mynltk/newstuff2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="63" />
-    <option name="y" value="23" />
-    <option name="width" value="1205" />
-    <option name="height" value="737" />
+    <option name="y" value="21" />
+    <option name="width" value="1575" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -137,7 +190,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py">
     <configuration name="Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjectMI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,6 +247,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="newstuff-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjectMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mynltk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mynltk/newstuff-2" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for test_cheers.TestCheers.test_upper" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ProjectMI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,34 +296,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_solver.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="ProjectMI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_solver.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.cheermeup" />
       <item itemvalue="Python tests.Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" />
-      <item itemvalue="Python tests.Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_solver.py" />
       <item itemvalue="Python.Solver" />
       <item itemvalue="Python tests.Unittests for test_cheers.TestCheers.test_upper" />
+      <item itemvalue="Python.newstuff-2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" />
-        <item itemvalue="Python tests.Unittests for test_cheers.TestCheers.test_upper" />
         <item itemvalue="Python.cheermeup" />
+        <item itemvalue="Python.newstuff-2" />
+        <item itemvalue="Python tests.Unittests for test_cheers.TestCheers.test_upper" />
         <item itemvalue="Python.Solver" />
-        <item itemvalue="Python tests.Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_solver.py" />
       </list>
     </recent_temporary>
   </component>
@@ -289,27 +349,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 09h 38m 30s.xml">
-      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 09h 38m 44s.xml">
-      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 10h 11m 05s.xml">
-      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 10h 12m 14s.xml">
-      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 10h 13m 18s.xml">
-      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_cheers_TestCheers_test_upper - 2018.11.06 at 10h 14m 39s.xml">
-      <configuration name="Unittests for test_cheers.TestCheers.test_upper" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_cheers_TestCheers_test_upper - 2018.11.06 at 10h 16m 46s.xml">
-      <configuration name="Unittests for test_cheers.TestCheers.test_upper" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_cheers_TestCheers_test_upper - 2018.11.06 at 10h 17m 33s.xml">
       <configuration name="Unittests for test_cheers.TestCheers.test_upper" configurationId="tests" />
     </history-entry>
@@ -319,17 +358,38 @@
     <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 10h 18m 58s.xml">
       <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 17h 15m 05s.xml">
+      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 17h 18m 30s.xml">
+      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 17h 18m 56s.xml">
+      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 17h 19m 07s.xml">
+      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 17h 19m 15s.xml">
+      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 17h 19m 35s.xml">
+      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in__Users_Cecilia_PycharmProjects_ProjectMI_test_cheers_py - 2018.11.06 at 17h 25m 11s.xml">
+      <configuration name="Unittests in /Users/Cecilia/PycharmProjects/ProjectMI/test_cheers.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="23" width="1205" height="737" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1518283" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.56899226" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.538206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,7 +397,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32868218" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32833022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -380,6 +440,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="#3 created new module" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_solver.py" />
+    <entry file="file://$PROJECT_DIR$/Solver.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py" />
+    <entry file="file://$PROJECT_DIR$/mynltk/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -387,56 +453,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_solver.py">
+    <entry file="file://$PROJECT_DIR$/test_cheers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Solver.py">
+    <entry file="file://$PROJECT_DIR$/mynltk/newstuff-2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newstuff2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mynltk/newstuff.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="17">
+          <caret line="1" column="9" lean-forward="true" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+    <entry file="file://$PROJECT_DIR$/mynltk/newstuff2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="604" selection-start-line="604" selection-end-line="604" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <marker date="1541492338490" expanded="true" signature="49:51" ph="..." />
-            <marker date="1541492338490" expanded="true" signature="77:86" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cheers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1541492313333" expanded="true" signature="112:117" ph="..." />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
         </state>
       </provider>
     </entry>
