@@ -1,17 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
         <title>Finglish terms</title>
+        <meta charset="UTF-8">
+        <style>
+         * {
+             box-sizing: border-box;
+         }
+
+         header {
+            background-color: Gray;
+            color: White;
+            text-align: center;
+            padding: 30px;
+            font-size: 40px;
+         }
+
+         search {
+            background-color: LightGray;
+            color: Black;
+            text-align: center;
+            padding: 30px;
+            font-size: 20px;
+            float: left;
+            width: 40%;
+         }
+
+         results {
+            float: left;
+            padding: 30px;
+            width: 60%;
+            background-color: LightGray;
+
+        </style>
     </head>
     <body style="background-color:LightGray;">
-        <h1 style="color:White;text-align:center;">Finglish terms</h1>
-        <h2 style="color:Blacktext;text-align:center;">Enter your search term</h2>
-        <form style="text-align:center;" method="POST">
-            <input type="text" name="query">
-            <input style="background-color:PowderBlue" type="submit" name="submit" value="buttonImage">
-            <!--button type="button" onclick="alert('Hello World!')">Click Me!</button-->
-        </form>
+        <!--h1 style="background-color:Gray;color:White;text-align:center;padding:30px;">Finglish terms</h1-->
+        <!--h2 style="color:Black;text-align:center;">Enter your search term</h2-->
+        <header>Finglish terms</header>
+        <section>
+            <search>
+                <h2>Enter your search term</h2>
+                <form style="text-align:center;" method="POST">
+                    <input type="text" name="query" autocomplete="on">
+                    <input style="background-color:PowderBlue" type="submit" name="submit" value="buttonImage">
+                    <!--button type="button" onclick="alert('Hello World!')">Click Me!</button-->
+                </form>
+            </search>
+            <results>
+                <p>The search results will appear here</p>
+            </results>
+        </section>
+
         <!--table width="100%">
             {% for item in matches %}
             <tr>
