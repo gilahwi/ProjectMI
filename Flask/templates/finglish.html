@@ -36,13 +36,14 @@
         padding: 30px;
         width: 60%;
         background-color: LightGray;
+        font-size: 20px;
       }
 
       footer {
         background-color: lightGray;
         color: White;
         text-align: center;
-        padding: 200px;
+        padding: 160px;
         font-size: 20px;
       }
 
@@ -59,15 +60,13 @@
     <header>Finglish terms</header>
     <section>
       <search>
-        <h2>Enter your search term</h2>
+        <h2>Enter your search term in Finnish</h2>
         <form method="POST">
           <input type="text" name="query" autocomplete="on" />
-          <input type="submit" name="submit" value="buttonImage" />
+          <input type="submit" name="submit" value="To English" />
         </form>
       </search>
       <results>
-        <p>Part-of-speech:</p>
-
         <p>Translation & Definition:</p>
         <table>
           {% for item in transdef %}
@@ -78,6 +77,6 @@
         </table>
       </results>
     </section>
-    <footer><p>How does this work?</p></footer>
+    <footer><p>Thank you for searching with us!</p></footer>
   </body>
 </html>
