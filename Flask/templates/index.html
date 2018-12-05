@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Flask example</title>
+    </head>
+    <body>
+        <h1>Find pictures</h1>
+        <form method="POST">
+            <input type="text" name="query">
+            <input type="submit" name="submit" value="Search">
+        </form>
+        <table>
+            {% for item in matches %}
+            <tr>
+                <td>{{ item["name"] }}</td>
+                <td><img src="/static/{{ item["source"] }}" style="width: 400px; height 100%"></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>
+                               

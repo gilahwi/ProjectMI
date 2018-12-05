@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Finglish terms</title>
+    <meta charset="UTF-8" />
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      section {
+        display: -webkit-flex;
+        display: flex;
+      }
+
+      header {
+        background-color: Gray;
+        color: White;
+        text-align: center;
+        padding: 30px;
+        font-size: 40px;
+      }
+
+      search {
+        background-color: LightGray;
+        color: Black;
+        text-align: center;
+        padding: 30px;
+        font-size: 20px;
+        float: left;
+        width: 40%;
+      }
+
+      results {
+        float: left;
+        padding: 30px;
+        width: 60%;
+        background-color: LightGray;
+      }
+
+      footer {
+        background-color: lightGray;
+        color: White;
+        text-align: center;
+        padding: 200px;
+        font-size: 20px;
+      }
+
+      @media (max-width: 600px) {
+        section {
+          -webkit-flex-direction: column;
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>Finglish terms</header>
+    <section>
+      <search>
+        <h2>Enter your search term</h2>
+        <form method="POST">
+          <input type="text" name="query" autocomplete="on" />
+          <input type="submit" name="submit" value="buttonImage" />
+        </form>
+      </search>
+      <results>
+        <p>Part-of-speech:</p>
+
+        <p>Translation & Definition:</p>
+      </results>
+    </section>
+    <footer><p>How does this work?</p></footer>
+  </body>
+</html>
