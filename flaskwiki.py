@@ -1,4 +1,4 @@
-from flaskwiki import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for
 from urllib.request import *
 
 #Initialize Flask instance

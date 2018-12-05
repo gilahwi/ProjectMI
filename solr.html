@@ -2,21 +2,21 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Search Wikipedia</title>
+        <title style="background-color:Black;color:White;">Finglish terms</title>
     </head>
-    <body>
-        <h1>Search Wikipedia</h1>
+    <body style="background-color:LightGray;">
+        <h1>Enter your search term</h1>
         <form method="POST">
             <input type="text" name="query">
-            <input type="submit" name="submit" value="Search">
+            <input a photo of a button as link/ type="submit" name="submit" value="Search">
         </form>
-        <table width="100%">
+        <!--table width="100%">
             {% for item in matches %}
             <tr>
                 <td>{{ item["title"] }}</td>
                 <td>{{ item["text"] | safe }}</td>
             </tr>
             {% endfor %}
-        </table>
+        </table-->
     </body>
 </html>
