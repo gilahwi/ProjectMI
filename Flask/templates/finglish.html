@@ -69,6 +69,13 @@
         <p>Part-of-speech:</p>
 
         <p>Translation & Definition:</p>
+        <table>
+          {% for item in transdef %}
+          <tr>
+            <td>{{ item }}</td>
+          </tr>
+          {% endfor %}
+        </table>
       </results>
     </section>
     <footer><p>How does this work?</p></footer>
