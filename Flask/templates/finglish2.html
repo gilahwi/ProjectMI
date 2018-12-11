@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Finglish terms</title>
+    <meta charset="UTF-8" />
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      section {
+        display: -webkit-flex;
+        display: flex;
+      }
+
+      header {
+        background-color: #1f1f2e;
+        color: White;
+        text-align: center;
+        padding: 30px;
+        font-size: 40px;
+      }
+
+      search {
+        background-color: #c2c2d6;
+        color: Black;
+        text-align: center;
+        padding: 30px;
+        font-size: 20px;
+        float: left;
+        width: 40%;
+      }
+
+      results {
+        float: left;
+        padding: 30px;
+        width: 60%;
+        background-color: #c2c2d6;
+        font-size: 20px;
+      }
+
+      footer {
+        background-color: #c2c2d6;
+        color: White;
+        text-align: center;
+        padding: 160px;
+        font-size: 20px;
+      }
+
+      @media (max-width: 600px) {
+        section {
+          -webkit-flex-direction: column;
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>Finglish terms</header>
+    <section>
+      <search>
+        <h2>Enter your search terms<br>in Finnish</h2>
+        <form method="POST">
+          <input type="text" name="query" autocomplete="on" />
+          <input type="submit" name="submit" value="Go!" />
+        </form>
+      </search>
+      <results>
+        <h3>Translations & Definitions:</h3>
+	
+          {%for transdef in t_all%}
+            <table frame="below">
+             <tr>
+              <th><i>{{ transdef[0] }}</i></th>
+               </tr>
+                 <table>
+                   {%for item in transdef[1:]%}
+          	    <tr>
+            	      <td>{{ item }}</td>
+          	    </tr>
+         	 {% endfor %}
+                 </table><br>
+              {% endfor %}
+           </table>
+      </results>
+    </section>
+    <footer><p>Thank you for searching with us!</p></footer>
+  </body>
+</html>
