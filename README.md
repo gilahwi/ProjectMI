@@ -4,7 +4,7 @@ ProjectMI - Finglish Terms is a translator from Finnish to English based on the 
 
 It consists of two versions: fineng.py starts up a simple but fast translator, which handles just single word at a time, and fineng2.py starts up a more upgraded translator, which can handle collocations ans sentenses. 
 
-Fineng2.py can be used as a 'lazy' dictionary for concrete text. It clears the input text from all the punctuation, removes duplicate words and outputs the results for each word in the alphabetical order.
+Fineng2.py can be used as a 'lazy' dictionary for concrete text. It clears the input text from all the punctuation, removes duplicate words and outputs the results for each word in the alphabetical order. 
 
 ## Installation
 
