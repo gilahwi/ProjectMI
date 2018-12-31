@@ -49,8 +49,6 @@ def search(query):
                 transdef.append(None)
                             
         except:
-            #ermsg = "We found nothing"
-            #transdef.append(ermsg)
             print(None)
 
         if len(transdef) != 0:
