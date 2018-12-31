@@ -10,13 +10,16 @@ Fineng2.py can be used as a 'lazy' dictionary for concrete text. It clears the i
 
 All working files for this project are located in the folder 'Flask'. 
 
-First, clone this repository on your computer.
+Clone this repository on your computer.
 
-Then, install Flask
+Install Flask
 https://github.com/miau1/flask-example
 
-Then, install Wiktionary
+Install the latest Wiktionary dump file
+https://dumps.wikimedia.org/enwiki/
+
+Install WiktionaryParser
 https://github.com/Suyash458/WiktionaryParser
 
-Then, move the Wiktionary files and directories into the flask-example directory. The wiktionaryparser.py file needs to be in the 'utils' directory. Run fineng.py or fineng2.py with Flask. If you get a 'module not found' error, try changing the "from .utils.wiktionaryparser import WiktionaryParser" to "from utils.wiktionaryparser import WiktionaryParser". 
+Then, move the Wiktionary files and directories into the 'flask-example' directory. The wiktionaryparser.py file needs to be in the 'utils' directory. Run fineng.py or fineng2.py with Flask. If you get a 'module not found' error, try changing the "from .utils.wiktionaryparser import WiktionaryParser" to "from utils.wiktionaryparser import WiktionaryParser". 
 
