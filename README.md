@@ -15,7 +15,7 @@ Clone this repository on your computer.
 Install Flask
 https://github.com/miau1/flask-example
 
-Install the latest Wiktionary dump file
+Download the latest Wiktionary dump file
 https://dumps.wikimedia.org/enwiki/
 
 Install WiktionaryParser
